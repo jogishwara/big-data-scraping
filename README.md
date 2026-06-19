@@ -258,19 +258,11 @@ Notebook untuk menghasilkan insight dan visualisasi.
 
 ---
 
-# 📑 Laporan dan Presentasi
+# 📑 Dashboard Interaktif 
 
-### Paper
+### Dashboard 
 
-https://docs.google.com/document/d/1POIkzIa7lpvRkhnJBtlyVBQryr9J8KyVwPHTX18zyqw
-
-### Google Colab
-
-https://colab.research.google.com/drive/1eKXZsRZTqcdYGMH3aWtPwDHQpuuZPW1r
-
-### Presentasi
-
-https://www.canva.com/design/DAHELgPlJV0/M5XMZvUpQcGickW3lGQHbw
+https://rekomendasilaptopai.streamlit.app/
 
 ---
 
@@ -415,19 +407,6 @@ Analisis dilakukan menggunakan beberapa notebook:
 - `scraping_big_data.ipynb` → proses scraping data.
 - `analysis.ipynb` → eksplorasi dan analisis data.
 - `insight.ipynb` → menghasilkan insight pasar laptop.
-
----
-
-## 📚 Referensi
-
-### Paper
-https://docs.google.com/document/d/1POIkzIa7lpvRkhnJBtlyVBQryr9J8KyVwPHTX18zyqw
-
-### Presentasi
-https://www.canva.com/design/DAHELgPlJV0/M5XMZvUpQcGickW3lGQHbw
-
-### Notebook Colab
-https://colab.research.google.com/drive/1eKXZsRZTqcdYGMH3aWtPwDHQpuuZPW1r
 
 ---
 
